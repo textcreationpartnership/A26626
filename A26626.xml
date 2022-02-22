@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Albion's tears on the death of Her Sacred Majesty Queen Mary a pindarick poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26626</idno>
+            <idno type="STC">Wing A880</idno>
+            <idno type="STC">ESTC R12036</idno>
+            <idno type="EEBO-CITATION">13302825</idno>
+            <idno type="OCLC">ocm 13302825</idno>
+            <idno type="VID">98954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98954)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 444:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Albion's tears on the death of Her Sacred Majesty Queen Mary a pindarick poem.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Place, and are to be sold by J. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98954:1" rendition="simple:additions"/>
+            <pb facs="tcp:98954:1"/>
+            <p>ALBION'S Tears ON THE DEATH OF Her Sacred Majeſty Queen MARY.</p>
+            <p>A Pindarick Poem.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Place,</hi> and are to be Sold by <hi>J. Whitlock</hi> near <hi>Stationers-Hall,</hi> 1695.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:98954:2"/>
+            <head>ERRATA's.</head>
+            <p>PAge 4. Line 10. after <hi>Grief</hi> add <hi>a.</hi> p. 5. l. 5. for <hi>would</hi> read <hi>to,</hi> a Parentheſis beginning l. 4. and ending l. 8. p. 6. l. 16. for <hi>Ears</hi> read <hi>Ear.</hi> p. 8. l. 17. for <hi>Cloiſterous</hi> read <hi>Cloiſteral.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:98954:2"/>
+            <head>A Pindarick Poem, &amp;c.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>DEſolate <hi>Albion,</hi> mourn thy cruel Fate, <hi>Maria</hi>'s Dead!</l>
+               <l>The fair, the chaſt, the great, the good <hi>Maria</hi>'s Dead!</l>
+               <l>And with her all thoſe glorious Titles fled,</l>
+               <l>That Vertuous cou'd Adorn, or add to Great.</l>
+               <l>Of Graces ſh' had ſo vaſt a Store,</l>
+               <l>Impoveriſh'd Nature cou'd not add one more.</l>
+               <l>Beauty and Goodneſs in her ſo combin'd,</l>
+               <l>That, like the Sun, where-e'er ſhe ſhin'd,</l>
+               <l>At once ſhe gave both Light and Warmth to humane Kind.</l>
+               <l>How happy <hi>Britains</hi> Throne,</l>
+               <l>Whilſt ſhe vouchſaf'd to ſtay below,</l>
+               <l>Envy'd by all, envying none,</l>
+               <l>Too bleſt, in Her, long to continue ſo!</l>
+               <l>Like Gods of old, ſh' appear'd, but ſoon was rapt away,</l>
+               <l>Ah! why ſo bright the Viſion, and ſo ſhort Its ſtay?</l>
+            </lg>
+            <pb n="4" facs="tcp:98954:3"/>
+            <lg n="2">
+               <head>II.</head>
+               <l>Bid <hi>Neptune,</hi> who with ſoft Embrace,</l>
+               <l>Kiſſes thy fruitful Banks in ev'ry place,</l>
+               <l>T' expreſs his Grief, his foaming Billows ſwell;</l>
+               <l>And bid the Nymphs and Sea-gods <hi>Britains</hi> Sorrows tell:</l>
+               <l>We'll add ten Thouſand Rivers more,</l>
+               <l>T' increaſe his Store,</l>
+               <l>Rivers of Tears which from lamenting Eyes do pour.</l>
+               <l>In vain his ſwelling Billows riſe,</l>
+               <l>In vain we add the Tribute of our Eyes,</l>
+               <l>T' expreſs our mighty Grief, Deluge can't ſuffice.</l>
+               <l>In each true <hi>Britiſh</hi> Heart,</l>
+               <l>Since <hi>Charles</hi> was ſnatcht from <hi>Englands</hi> Throne,</l>
+               <l>(To make us Slaves to <hi>France</hi> and <hi>Rome,</hi>)</l>
+               <l>Grief never plaid ſo true, ſo juſt, ſo ſad a part.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Fatal Diſeaſe! that couldſt at once deſtroy</l>
+               <l>Natures Chief Ornament, and <hi>Albion</hi>'s Joy;</l>
+               <l>We wou'd have brib'd thee, Her t'have ſpar'd,</l>
+               <l>With Millions of the common Herd;</l>
+               <l>But thou, relentleſs Tyrant! ſeizedſt the Heart,</l>
+               <l>And ev'ry noble part;</l>
+               <pb n="5" facs="tcp:98954:3"/>
+               <l>There thou in Triumph ſat'ſt, and didſt with Pride</l>
+               <l>The vain Efforts of Humane Art deride.</l>
+               <l>That Sacred Art, whoſe power and uſe to ſtain,</l>
+               <l>A trifling Witling labours at in vain:</l>
+               <l>Unable to ſupport the Task, would praiſe</l>
+               <l>His borrow'd Gall, would ill-tim'd Laughter raiſe:</l>
+               <l>But Praiſe or Malice, equally the Scorn</l>
+               <l>Of all, aſperſe as little as adorn.</l>
+               <l>No blazing Comet did appear,</l>
+               <l>To terrifie our Hemiſphere;</l>
+               <l>No ominous Sign, or dire Preſage,</l>
+               <l>Foretold her Doom,</l>
+               <l>Or warn'd us to prevent Heav'ns Wrath to come,</l>
+               <l>And by our Pray'rs and Hecatombs its Vengeance to aſſwage.</l>
+               <l>Heavens juſt Anger we have cauſe to fear,</l>
+               <l>Since unconcern'd it cou'd appear,</l>
+               <l>And ſaw ſo great a Ruin threaten us ſo near.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>She's gone, alas! ſhe's gone!</l>
+               <l>And to thoſe Bleſſed Manſions flown,</l>
+               <l>Where, free from Trouble, Pain, or Care,</l>
+               <l>With pity ſhe looks down,</l>
+               <l>On her afflicted Lord, and groveling Subjects here;</l>
+               <pb n="6" facs="tcp:98954:4"/>
+               <l>Her Pious Soul to Heav'n did long ſince tend,</l>
+               <l>Her Body ſeem'd to linger here behind:</l>
+               <l>To ſuch a noble height her Soul did riſe,</l>
+               <l>When to the Holy Altar ſhe approach'd,</l>
+               <l>With burning Zeal ſo ſtrongly touch'd,</l>
+               <l>That the Spectators drew Devotion from her Eyes;</l>
+               <l>Her Form was ſo Divine,</l>
+               <l>She ſeem'd a Goddeſs, not a Vot'ry at the Shrine;</l>
+               <l>And yet ſo lowly, ſhe</l>
+               <l>Was the great Pattern of Humility,</l>
+               <l>And taught the Meaneſt how t' approach the Deity.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>In one ſo highly fix'd,</l>
+               <l>Greatneſs with Goodneſs were moſt ſweetly mix'd;</l>
+               <l>Say ſhe was Great, it muſt be underſtood,</l>
+               <l>Only in doing Good;</l>
+               <l>Her tender Ears</l>
+               <l>Was always open to receive,</l>
+               <l>As freely as her Liberal Hand to give,</l>
+               <l>When Vertue pleaded, or Deſert put up a Pray'r:</l>
+               <l>With ſo much Eaſe her Bounties ſhe beſtow'd;</l>
+               <l>With ſuch a pleaſing Air they flow'd,</l>
+               <l>That all, who did a Benefit receive,</l>
+               <l>Bleſs'd the Sweet Donor more than Donative.</l>
+               <pb n="7" facs="tcp:98954:4"/>
+               <l>She never had a Fo,</l>
+               <l>But thoſe that were to Goodneſs ſo;</l>
+               <l>And when they did offend,</l>
+               <l>Such was the gen'rous Temper of her Mind,</l>
+               <l>With juſt Revenge ſhe ne'er purſu'd their Faults,</l>
+               <l>But left 'em to be plagu'd by their own guilty thoughts.</l>
+               <l>This the Ingrates did own,</l>
+               <l>And yet they treſpaſs'd on;</l>
+               <l>Which made her Mercy ſeem the more Divine,</l>
+               <l>As Gold being oft refin'd does brighter ſhine.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>See, ſee, the mighty Hero tears</l>
+               <l>The Lawrel from his ſacred Head,</l>
+               <l>And quits the Thoughts of Arms to mourn <hi>Maria</hi> dead,</l>
+               <l>The noble Partner of his Toils and Cares;</l>
+               <l>That Martial Fire which ſparkled in his Eyes,</l>
+               <l>And gave Life to his Friends, Terror to's Enemies,</l>
+               <l>Is all diſſolv'd in Tears, or vented in ſad Sighs.</l>
+               <l>Fearleſs amidſt ten thouſand Foes he ſtood</l>
+               <l>In reeking Fields of Blood;</l>
+               <l>Amidſt ten thouſand Deaths, and gaping Wounds,</l>
+               <l>Which angry <hi>Mars</hi> threw all around,</l>
+               <l>Undaunted he triumphed o'er</l>
+               <l>The grim inſulting Tyrant, and defi'd his Pow'r,</l>
+               <l>Tho all his horrid ſhapes, and ghaſtlieſt looks he wore.</l>
+               <pb n="8" facs="tcp:98954:5"/>
+               <l>His Manly Soul,</l>
+               <l>Which Danger ne'er could Fright, or Fear Controul,</l>
+               <l>With ſuch a weighty Grief preſs'd down,</l>
+               <l>The weakneſs of Mortality muſt own.</l>
+               <l>So have we ſeen a generous Tree,</l>
+               <l>The fierceſt Storms and Thunders rage defies,</l>
+               <l>But if ſome unkind Hand divide</l>
+               <l>The loving Mate which flouriſh'd by his ſide,</l>
+               <l>Hangs down his lofty Head, grows ſick, and grieving dies.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Mourn, Mourn, thou faireſt Sex, who ſtill wer't nigh</l>
+               <l>So much Divinity;</l>
+               <l>To you ſhe, as a Miſtreſs Great, was kind;</l>
+               <l>Yet tender to you as a Friend,</l>
+               <l>She to Religion did invite:</l>
+               <l>To vertuous Deeds excite</l>
+               <l>By her own good Example, free</l>
+               <l>From Cloiſterous Auſterity,</l>
+               <l>Which may compel, but ne'er can charm to Piety.</l>
+               <l>You ſaw how Innocent</l>
+               <l>She paſs'd the Days, how Sweet her Nights were ſpent;</l>
+               <l>So Vertuous was her Court,</l>
+               <l>That Angels there might undefil'd reſort.</l>
+               <pb n="9" facs="tcp:98954:5"/>
+               <l>Ah where will Vertue now for ſhelter run,</l>
+               <l>When ſhe the great Protectreſs of it's gone!</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Ye Sons of <hi>Levi</hi> write her Elegy,</l>
+               <l>And let it be,</l>
+               <l>Great as the Subject, Sad as our Calamity;</l>
+               <l>Let every Voice her Praiſe aloud proclaim;</l>
+               <l>And let each Pulpit eccho forth her Fame:</l>
+               <l>Write Glorious Epitaphs, that ſo</l>
+               <l>Poſterity may know,</l>
+               <l>How much Divinity to her did owe.</l>
+               <l>In vain your learned Argument y'had tri'd,</l>
+               <l>(For Arguments and Senſe were always on your ſide.)</l>
+               <l>In vain you bandi'd airy words</l>
+               <l>Againſt a Ruling Pow'r, and Cutting Swords;</l>
+               <l>Had not the Hero, by <hi>Maria</hi> mov'd,</l>
+               <l>(<hi>Maria</hi> the Belov'd!)</l>
+               <l>Stepp'd in and ſav'd your ſinking Church and State,</l>
+               <l>Both had been ruin'd by one common Fate;</l>
+               <l>And Muddy <hi>Tiber,</hi> long e'er this,</l>
+               <l>Had ſulli'd the pure Streams of <hi>Thamiſis.</hi>
+               </l>
+               <l>Say then, to ſuch Deliverers, what's due,</l>
+               <l>And let that gratefully be paid by you.</l>
+            </lg>
+            <pb n="10" facs="tcp:98954:6"/>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Ye Friends of <hi>Helicon</hi> Lament and Mourn,</l>
+               <l>And all your Numbers to ſad Dirges turn,</l>
+               <l>Since ſhe is gone, the nobleſt Theam,</l>
+               <l>And Patroneſs of you and Them!</l>
+               <l>No more ſhe now ſhall hear</l>
+               <l>Your Joyful Notes ſaluting the New Year,</l>
+               <l>Which ſtill was happy whilſt ſtill bleſs'd with her!</l>
+               <l>Her Praiſes now rehearſe</l>
+               <l>In mighty Numbers, mighty Verſe,</l>
+               <l>Now let your higheſt Fancies looſly fly,</l>
+               <l>You cannot ſoar too high,</l>
+               <l>Within the Limits of Mortality.</l>
+               <l>Rack, Rack, each Metaphor</l>
+               <l>Your flatt'ring Tribe have heretofore</l>
+               <l>Appli'd to Woman-kind; it will appear</l>
+               <l>They're true of her, and only her.</l>
+               <l>Flatt'ry ſhe hated here below,</l>
+               <l>The higheſt Fancy cannot reach her Merits now.</l>
+            </lg>
+            <pb n="11" facs="tcp:98954:6"/>
+            <lg n="10">
+               <head>X.</head>
+               <l>Stop here my Muſe—thou ſtriv'ſt in vain,</l>
+               <l>With flagging Wings the mighty height to gain;</l>
+               <l>She is as much above thy feeble Praiſe,</l>
+               <l>As is the place</l>
+               <l>That holds her glorious Spirit now,</l>
+               <l>Diſtant from little Thee below:</l>
+               <l>So have we ſeen a Falcon in his flight;</l>
+               <l>Purſue the nimble Quarry out of ſight,</l>
+               <l>Weari'd, and ſpent, at laſt</l>
+               <l>Deſcend with hanging Wings and eager haſt.</l>
+               <l>And yet before thou leav'ſt thy Song,</l>
+               <l>Let the Great <hi>William</hi> take thy Wiſh along;</l>
+               <l>May he his Conquering Arms advance</l>
+               <l>Into the Bowels of Inſulting <hi>France:</hi>
+               </l>
+               <l>May Bleſs'd <hi>Maria</hi>'s Soul inſpire</l>
+               <l>His active Breaſt with double Fire;</l>
+               <l>Then crown'd with Lawrels let him come,</l>
+               <l>Bring Peace and Glory with him home;</l>
+               <l>And he, and they, upon us Smile,</l>
+               <l>Whilſt he rules <hi>Albion,</hi> or <hi>Maria</hi> is remembred in our Iſle.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
